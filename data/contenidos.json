@@ -1,0 +1,636 @@
+{
+  "version": 9,
+  "title": "NEXT STEP",
+  "subtitle": "Del CV a tu primera entrevista laboral",
+  "logo": "assets/logo-hca.png",
+  "palette": {
+    "bg": "#0E1B1A",
+    "panel": "#17302C",
+    "accent": "#B5C62A",
+    "accent2": "#F0941F",
+    "text": "#FFFFFF",
+    "button": "#0B5F55",
+    "edge": "#2F5650"
+  },
+  "profiles": {
+    "maria": {
+      "name": "María",
+      "age": 18,
+      "description": "Recién egresada de Bachillerato. Busca su primera experiencia laboral 235689",
+      "blocks": [
+        {
+          "category": "Datos de contacto",
+          "a": "María Fernández\nMontevideo, Uruguay\nCelular: 099 123 456\nCorreo: maria.fernandez@example.com",
+          "b": "María Fernández\n18 años · Estado civil: soltera\nHijos: no tengo\nCédula: 5.123.456-7 · Credencial cívica: ABC 12345\nLibreta de conducir: categoría A\nDomicilio: Calle Los Aromos 1234, Montevideo\nCelular: 099 123 456\nCorreo: mariafernandez18@example.com",
+          "best": "A",
+          "tip": "Los datos de contacto deben permitir ubicarte. Estado civil, hijos, credencial y documento no son datos de contacto; la libreta de conducir solo suma si el cargo la requiere."
+        },
+        {
+          "category": "Presentación breve",
+          "a": "Soy egresada de Bachillerato y estoy buscando mi primera experiencia laboral. Me considero responsable, comprometida y con facilidad para aprender. Tengo buena disposición para trabajar en equipo y adaptarme a nuevos desafíos.",
+          "b": "Egresada de Bachillerato, con interés en iniciar mi experiencia laboral en atención al público. Durante mi formación participé en proyectos grupales y actividades institucionales, desarrollando habilidades de comunicación, organización y trabajo en equipo.",
+          "best": "B",
+          "tip": "La primera presentación es razonable, pero general. La segunda conecta el interés por el puesto con experiencias concretas y habilidades observables."
+        },
+        {
+          "category": "Formación",
+          "a": "2024–2026 | Bachillerato completo\nColegio y Liceo HCA – Montevideo",
+          "b": "2026 | Bachillerato completo – Colegio y Liceo HCA\n2023 | Ciclo Básico completo\n2017 | Educación Primaria completa",
+          "best": "A",
+          "tip": "No es necesario enumerar toda la escolaridad: la formación más reciente y pertinente suele alcanzar."
+        },
+        {
+          "category": "Experiencias relevantes",
+          "a": "No cuento con experiencia laboral formal, pero durante Bachillerato participé en actividades institucionales y colaboré en la organización de eventos. Estas experiencias me permitieron trabajar con otras personas y cumplir tareas asignadas.",
+          "b": "2025–2026 | Colaboración en actividades estudiantiles – Colegio y Liceo HCA\nParticipación en jornadas institucionales, coordinación de materiales y apoyo en la recepción de participantes. Trabajo en equipo y cumplimiento de tareas según los tiempos establecidos.",
+          "best": "B",
+          "tip": "La opción B identifica tareas, contexto y responsabilidades. Estas experiencias no deben presentarse como empleo remunerado; también podrían ubicarse en Proyectos."
+        },
+        {
+          "category": "Habilidades",
+          "a": "Responsabilidad, creatividad, liderazgo, empatía, proactividad, compromiso, flexibilidad, adaptación, comunicación, organización y trabajo en equipo.",
+          "b": "Organización y planificación de tareas.\nComunicación interpersonal y atención a otras personas.\nTrabajo colaborativo en proyectos grupales.\nManejo de Word, Excel básico y Google Workspace.",
+          "best": "B",
+          "tip": "Una lista extensa de atributos aporta menos que habilidades seleccionadas para el puesto, especialmente si pueden vincularse a ejemplos reales."
+        },
+        {
+          "category": "Cursos",
+          "a": "Excel básico.\nTaller de herramientas digitales.\nTaller de comunicación.\nActividades de formación realizadas durante Bachillerato.",
+          "b": "2025 | Excel básico – Curso de 20 horas.\n2024 | Herramientas digitales – Taller de 12 horas.\n2024 | Comunicación y trabajo en equipo – Taller de 8 horas.",
+          "best": "B",
+          "tip": "Las dos son posibles; especificar fechas y duración ayuda a comprender la formación. No es obligatorio indicar horas si no se conocen."
+        },
+        {
+          "category": "Proyectos",
+          "a": "Participé en diferentes proyectos del liceo, colaborando en equipos y ayudando a organizar actividades para la comunidad educativa.",
+          "b": "2025 | Jornada solidaria escolar\nCoordinación de materiales, difusión de la actividad y colaboración con un equipo de seis estudiantes.",
+          "best": "B",
+          "tip": "Un proyecto concreto, con responsabilidades identificables, permite visualizar mejor qué hizo María."
+        },
+        {
+          "category": "Idiomas",
+          "a": "Español: nativo.\nInglés: intermedio alto (B2), según evaluación académica.",
+          "b": "Español: excelente.\nInglés: muy bueno, estudiado durante varios años.\nPortugués: conocimientos básicos.",
+          "best": "A",
+          "tip": "Los niveles claros y verificables ayudan a interpretar el dominio del idioma. No conviene atribuirse certificaciones inexistentes."
+        },
+        {
+          "category": "Referencias",
+          "a": "Referencias académicas o de proyectos disponibles a solicitud.",
+          "b": "Referencias personales:\nLaura Fernández – Madre.\nCarlos Fernández – Tío.\nContactos disponibles a solicitud.",
+          "best": "A",
+          "tip": "Las referencias pertinentes pueden ser docentes o responsables de proyectos, siempre con su autorización. También es válido omitir esta sección."
+        }
+      ]
+    },
+    "juan": {
+      "name": "Juan",
+      "age": 29,
+      "description": "Licenciado en Administración, con varias experiencias de empleo.",
+      "blocks": [
+        {
+          "category": "Datos de contacto",
+          "a": "Juan Rodríguez\nMontevideo, Uruguay\n098 234 567\njuan.rodriguez@example.com\nLinkedIn: linkedin.com/in/juan-rodriguez-ejemplo",
+          "b": "Juan Rodríguez\n29 años, casado\nAv. Central 2456, apto. 302\n098 234 567\njuanrodriguez1997@example.com",
+          "best": "A",
+          "tip": "Incluye contacto y red profesional, sin datos personales innecesarios."
+        },
+        {
+          "category": "Presentación breve",
+          "a": "Licenciado en Administración, con experiencia en empresas de distintos sectores. Me caracterizo por ser responsable, resolutivo y por adaptarme a nuevas tareas.",
+          "b": "Licenciado en Administración con cinco años de experiencia en operaciones, análisis de indicadores y coordinación de procesos. Busco aportar a equipos enfocados en la mejora de gestión.",
+          "best": "B",
+          "tip": "En un perfil experimentado, sintetizar especialidad, trayectoria y objetivo aporta más que atributos generales."
+        },
+        {
+          "category": "Formación",
+          "a": "2017–2021 | Licenciatura en Administración\nUniversidad de la República\n2014–2016 | Bachillerato\n2011–2013 | Ciclo Básico",
+          "b": "2017–2021 | Licenciatura en Administración\nUniversidad de la República\nTítulo obtenido en 2021",
+          "best": "B",
+          "tip": "Prioriza la formación universitaria relevante."
+        },
+        {
+          "category": "Experiencia",
+          "a": "2023–Actualidad | Analista de Operaciones – Empresa Delta\nSeguimiento mensual de indicadores, coordinación de tareas entre áreas y mejora de reportes.\n2021–2023 | Asistente Administrativo – Empresa Norte\nFacturación, gestión documental y contacto con proveedores.",
+          "b": "2021–Actualidad | Área administrativa y operativa\nGestión de documentación, reportes, contacto con proveedores y coordinación con equipos de distintas áreas.",
+          "best": "A",
+          "tip": "Separar empleos, fechas y responsabilidades permite comprender la progresión profesional."
+        },
+        {
+          "category": "Herramientas y conocimientos técnicos",
+          "a": "Excel avanzado, Power BI, sistemas de gestión y elaboración de reportes. Conocimiento de herramientas para análisis y seguimiento de operaciones.",
+          "b": "Excel avanzado (tablas dinámicas y fórmulas), Power BI (tableros de indicadores), seguimiento de KPI y documentación de procesos operativos.",
+          "best": "B",
+          "tip": "En un perfil con trayectoria conviene mostrar herramientas y conocimientos aplicados, no una lista genérica de aptitudes. La especificidad debe reflejar el dominio real."
+        },
+        {
+          "category": "Cursos",
+          "a": "2025 | Power BI – 40 horas\n2023 | Gestión de Proyectos – 60 horas\n2022 | Excel avanzado – 30 horas",
+          "b": "2025 | Power BI\n2023 | Gestión de Proyectos\n2022 | Excel avanzado\n2018 | Taller de comunicación\n2016 | Introducción a informática",
+          "best": "A",
+          "tip": "Selecciona formación reciente y pertinente."
+        },
+        {
+          "category": "Proyectos",
+          "a": "Participé en la digitalización de reportes internos y en propuestas de mejora de procesos, junto con otras áreas de la empresa.",
+          "b": "2024 | Digitalización de reportes operativos – Empresa Delta\nColaboré en la implementación de un tablero de indicadores que redujo un 30 % el tiempo de elaboración de informes semanales.",
+          "best": "B",
+          "tip": "Los resultados verificables diferencian una trayectoria profesional; no se deben inventar métricas."
+        },
+        {
+          "category": "Idiomas",
+          "a": "Español: nativo\nInglés: avanzado (C1), certificado en 2024\nPortugués: intermedio (B1)",
+          "b": "Español: nativo\nInglés: excelente comprensión y comunicación\nPortugués: buen manejo general",
+          "best": "A",
+          "tip": "Expresa niveles verificables y comparables."
+        },
+        {
+          "category": "Referencias",
+          "a": "Referencias laborales disponibles a solicitud de supervisores anteriores.",
+          "b": "Referencias:\nMartín Pérez – Supervisor actual\nAndrea Silva – Excompañera\nTeléfonos disponibles a solicitud.",
+          "best": "A",
+          "tip": "Protege los datos de terceros; también puede omitirse."
+        }
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "title": "Primer contacto",
+      "speaker": "SITUACIÓN",
+      "question": "Recibís una invitación a entrevista para mañana. ¿Cómo respondés?",
+      "options": [
+        "Gracias por la invitación. Confirmo que puedo asistir mañana a las 10:00. ¿Me podrían indicar la dirección o modalidad?",
+        "Muchas gracias, mañana a las 10:00 estaré allí. Quedo atento a cualquier indicación.",
+        "¡Qué bueno! Me interesa mucho. ¿Podemos ver mañana si finalmente llego a las 10:00?"
+      ],
+      "scores": [
+        3,
+        2,
+        1
+      ],
+      "feedback": [
+        "Confirma, agradece y verifica un dato operativo; facilita la coordinación.",
+        "Es cordial y suficiente si el lugar y la modalidad ya estaban claros; de lo contrario, falta verificar información.",
+        "La motivación es genuina, pero deja una incertidumbre importante sobre la asistencia."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "El encuentro",
+      "speaker": "SITUACIÓN",
+      "question": "Llegás unos minutos antes y te recibe una persona de la organización. ¿Qué hacés?",
+      "options": [
+        "Saludo, digo mi nombre y espero a que me expliquen qué hacer.",
+        "Entro buscando a la entrevistadora para no hacerla esperar y me presento directamente.",
+        "Me presento, indico que tengo una entrevista y pregunto dónde puedo esperar."
+      ],
+      "scores": [
+        2,
+        1,
+        3
+      ],
+      "feedback": [
+        "Es respetuoso, aunque no aclarar el motivo de la visita puede dificultar la recepción.",
+        "La intención es ser puntual, pero saltearse la recepción puede resultar invasivo.",
+        "Combina cortesía, claridad y respeto por la organización del lugar."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Contame sobre vos",
+      "speaker": "ENTREVISTADORA",
+      "question": "La entrevistadora te dice: «Contame un poco sobre vos».",
+      "options": [
+        "Soy una persona muy sociable y responsable. Me llevo bien con todos y creo que podría adaptarme a cualquier trabajo.",
+        "Estoy terminando Bachillerato. Me interesa la atención al público y en proyectos del liceo participé organizando actividades con compañeros.",
+        "Estoy terminando Bachillerato y me gustaría tener mi primera experiencia laboral para aprender y ganar independencia."
+      ],
+      "scores": [
+        1,
+        3,
+        2
+      ],
+      "feedback": [
+        "La respuesta suena positiva, pero es demasiado amplia y difícil de verificar.",
+        "Conecta etapa formativa, interés y una experiencia que permite profundizar.",
+        "Es honesto y pertinente, pero aún no muestra qué podría aportar."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Motivación",
+      "speaker": "ENTREVISTADORA",
+      "question": "«¿Por qué te interesa esta oportunidad?»",
+      "options": [
+        "Quiero empezar a trabajar, aprender nuevas tareas y tener mayor independencia económica.",
+        "Me interesa porque tengo disponibilidad y creo que puedo adaptarme a lo que necesiten.",
+        "Busco mi primera experiencia y me interesa este puesto porque combina atención a personas con tareas de organización, dos cosas que practiqué en actividades estudiantiles."
+      ],
+      "scores": [
+        2,
+        1,
+        3
+      ],
+      "feedback": [
+        "Es una motivación legítima, aunque no explica por qué este puesto en particular.",
+        "La disponibilidad importa, pero no sustituye el interés informado por el cargo.",
+        "Vincula motivación personal, puesto y antecedentes reales."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Lo que podés aportar",
+      "speaker": "ENTREVISTADORA",
+      "question": "«¿Qué aptitud tuya sería útil para este trabajo?»",
+      "options": [
+        "Soy responsable, creativo, empático, líder y aprendo rápido; creo que todas esas aptitudes me servirían.",
+        "Organizarme: en una jornada del liceo coordiné materiales y horarios con compañeros para que las actividades empezaran a tiempo.",
+        "Soy organizado y suelo cumplir con lo que me comprometo, tanto en el liceo como en casa."
+      ],
+      "scores": [
+        1,
+        3,
+        2
+      ],
+      "feedback": [
+        "La lista parece atractiva, pero es difícil distinguir qué habilidad domina y cómo la demuestra.",
+        "El ejemplo concreto ayuda a evaluar la habilidad mencionada.",
+        "La fortaleza es relevante, pero sería útil conocer una situación específica."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Trabajo en equipo",
+      "speaker": "ENTREVISTADORA",
+      "question": "«Contame una situación en la que tuviste que trabajar con otras personas».",
+      "options": [
+        "En un proyecto grupal hubo diferencias sobre las tareas. Propuse repartirlas según disponibilidad, acordamos plazos y logramos entregar a tiempo.",
+        "En el liceo hice muchos trabajos grupales. Generalmente escucho a todos y trato de que nos pongamos de acuerdo.",
+        "Cuando hay diferencias prefiero asumir la coordinación para que el grupo avance y no pierda tiempo discutiendo."
+      ],
+      "scores": [
+        3,
+        2,
+        1
+      ],
+      "feedback": [
+        "Describe contexto, acción y resultado; permite explorar colaboración.",
+        "Es pertinente, pero le falta una experiencia concreta que lo respalde.",
+        "Puede mostrar iniciativa, pero también poca apertura a otras perspectivas."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Una tarea desconocida",
+      "speaker": "ENTREVISTADORA",
+      "question": "«Si te asignamos una tarea que nunca hiciste, ¿cómo actuarías?»",
+      "options": [
+        "Intentaría resolverla con los recursos disponibles y, si me trabo, pediría orientación a alguien del equipo.",
+        "Pediría que me expliquen todo el procedimiento antes de empezar, para asegurarme de no cometer errores.",
+        "Primero confirmaría qué resultado esperan y si hay instrucciones. Avanzaría en lo que comprenda y consultaría antes de tomar decisiones que puedan generar errores."
+      ],
+      "scores": [
+        2,
+        1,
+        3
+      ],
+      "feedback": [
+        "Muestra iniciativa; convendría considerar el riesgo de equivocarse antes de experimentar.",
+        "Es prudente, pero puede transmitir dependencia incluso en tareas simples.",
+        "Equilibra autonomía, comprensión de la tarea y pedido de ayuda oportuno."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Recibir una devolución",
+      "speaker": "ENTREVISTADORA",
+      "question": "«¿Qué hacés si te señalan algo que deberías mejorar?»",
+      "options": [
+        "Explico por qué trabajé de esa manera, para que sepan que tuve motivos y no fue por descuido.",
+        "Escucho la observación, pido un ejemplo si no la entiendo y trato de aplicarla en la siguiente tarea.",
+        "Agradezco el comentario y después reflexiono sobre cómo podría hacerlo de otra manera."
+      ],
+      "scores": [
+        1,
+        3,
+        2
+      ],
+      "feedback": [
+        "Aclarar el contexto puede ser útil, pero priorizar la defensa puede bloquear el aprendizaje.",
+        "Muestra escucha y acciones concretas de mejora.",
+        "Tiene buena disposición, pero no verifica que haya comprendido la devolución."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Resolver un problema",
+      "speaker": "ENTREVISTADORA",
+      "question": "«Contame una dificultad que hayas tenido que resolver».",
+      "options": [
+        "En una actividad faltó material a último momento. Revisamos qué era imprescindible, redistribuimos lo disponible y avisamos al equipo del cambio.",
+        "Cuando aparece un problema intento mantener la calma, pensar alternativas y consultar si necesito ayuda.",
+        "Trato de anticiparme a todo para que no aparezcan problemas; casi nunca me pasa que algo salga mal."
+      ],
+      "scores": [
+        3,
+        2,
+        1
+      ],
+      "feedback": [
+        "Presenta un hecho, una decisión y su resultado; no necesita ser una experiencia laboral.",
+        "El enfoque es razonable, pero describe una intención y no un caso vivido.",
+        "Suena seguro, pero dificulta conocer cómo enfrenta imprevistos reales."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Organización",
+      "speaker": "ENTREVISTADORA",
+      "question": "«¿Cómo te organizás cuando tenés varias tareas para el mismo día?»",
+      "options": [
+        "Hago una lista y voy tachando las tareas a medida que las termino, empezando por las que me resultan más rápidas.",
+        "Intento avanzar en varias a la vez para aprovechar el tiempo y no dejar ninguna sin empezar.",
+        "Reviso cuáles tienen horario o impacto en otros, ordeno prioridades y aviso a tiempo si veo que no llego a cumplir alguna."
+      ],
+      "scores": [
+        2,
+        1,
+        3
+      ],
+      "feedback": [
+        "La lista ayuda, pero priorizar solo por rapidez puede dejar lo importante para el final.",
+        "Puede parecer eficiente, pero dispersar la atención dificulta cumplir plazos.",
+        "Combina planificación, criterio y comunicación de dificultades."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Algo para mejorar",
+      "speaker": "ENTREVISTADORA",
+      "question": "«¿Qué aspecto tuyo te gustaría desarrollar?»",
+      "options": [
+        "Soy bastante perfeccionista: a veces reviso tanto las cosas que demoro, pero prefiero que todo quede impecable.",
+        "En grupos nuevos a veces tardo en participar. Me propuse intervenir antes y pedir opinión sobre mis aportes; ya lo practiqué en proyectos de clase.",
+        "Me gustaría organizar mejor mi tiempo cuando coinciden varias actividades. Estoy probando usar recordatorios y calendarios."
+      ],
+      "scores": [
+        1,
+        3,
+        2
+      ],
+      "feedback": [
+        "Es creíble, pero sin acciones de mejora puede sonar a una respuesta preparada.",
+        "Reconoce una dificultad concreta y muestra acciones de mejora.",
+        "Es una respuesta válida, aunque sería mejor sumar un ejemplo de avance."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Una indicación discutible",
+      "speaker": "ENTREVISTADORA",
+      "question": "«¿Qué harías si no estás de acuerdo con una indicación de tu responsable?»",
+      "options": [
+        "Primero me aseguraría de haber entendido. Si veo una dificultad, la plantearía con respeto y propondría una alternativa; luego seguiría el procedimiento acordado.",
+        "Cumpliría la indicación y, cuando haya un momento adecuado, comentaría que pensé otra forma de hacerlo.",
+        "Explicaría enseguida por qué mi propuesta es mejor, porque creo que es importante defender las propias ideas."
+      ],
+      "scores": [
+        3,
+        2,
+        1
+      ],
+      "feedback": [
+        "Permite expresar criterio sin desconocer responsabilidades ni procedimientos.",
+        "Evita confrontaciones, pero puede ser tardío si hay un riesgo o error importante.",
+        "La iniciativa es valiosa, pero priorizar convencer puede dificultar el diálogo."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "Tus preguntas",
+      "speaker": "ENTREVISTADORA",
+      "question": "«¿Querés preguntarnos algo antes de terminar?»",
+      "options": [
+        "Sí. Quisiera confirmar los horarios, las condiciones de contratación y cuándo estiman tomar una decisión.",
+        "Quería saber si existe la posibilidad de cambiar de área rápidamente si el trabajo no termina de gustarme.",
+        "Sí. ¿Cómo sería un día habitual en el puesto, cómo se acompaña a alguien que recién ingresa y cuáles son los próximos pasos?"
+      ],
+      "scores": [
+        2,
+        1,
+        3
+      ],
+      "feedback": [
+        "Son preguntas totalmente legítimas; también podría explorar las tareas y expectativas.",
+        "La inquietud puede ser real, pero planteada así anticipa poco interés por el puesto ofrecido.",
+        "Muestra interés por las tareas, el aprendizaje y el proceso."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    },
+    {
+      "title": "El cierre",
+      "speaker": "ENTREVISTADORA",
+      "question": "La entrevista termina. ¿Cómo cerrás el encuentro?",
+      "options": [
+        "Agradezco y pregunto si creen que me fue bien, porque me gustaría saber mis posibilidades antes de irme.",
+        "Agradezco el tiempo, reafirmo mi interés y consulto si necesitan algún dato adicional de mi parte.",
+        "Agradezco la entrevista y me despido cordialmente. Quedo atento a cualquier novedad."
+      ],
+      "scores": [
+        1,
+        3,
+        2
+      ],
+      "feedback": [
+        "Es una curiosidad comprensible, pero puede poner a la entrevistadora en una situación incómoda.",
+        "Cierra con cortesía y deja claro el interés sin exagerarlo.",
+        "Es un cierre correcto, aunque menos activo."
+      ],
+      "notes": "Criterio educativo contextual: evaluar pertinencia, claridad, evidencia y tono, no personalidad."
+    }
+  ],
+  "art": "assets/entrevistador.png",
+  "resources": [
+    {
+      "id": "r1",
+      "category": "CV / Preparar mi perfil profesional",
+      "title": "¿Qué es lo más importante en un CV?",
+      "body": "Un buen CV debe ser claro, ordenado y fácil de leer. Es importante incluir:\n- Datos personales: nombre completo, teléfono y correo electrónico.\n- Perfil personal: una breve presentación sobre vos, tus intereses y fortalezas.\n- Educación: estudios actuales, instituciones y cursos realizados (con fechas).\n- Experiencia: trabajos anteriores, pasantías, voluntariados o actividades relevantes (con fechas).\n- Habilidades: idiomas, informática, herramientas digitales y otras competencias.\nAlgunos consejos adicionales:\n- Utilizá títulos claros para separar las secciones: Educación, Experiencia, Habilidades, etc.\n- Mantené un diseño sencillo, preferentemente de una sola columna.\n- Elegí una tipografía fácil de leer y un tamaño adecuado.\n- Guardá y enviá tu CV en formato PDF, asegurándote de que el texto se pueda seleccionar.\n- Revisá la ortografía antes de enviarlo.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r2",
+      "category": "CV / Preparar mi perfil profesional",
+      "title": "¿Qué miran primero quienes seleccionan?",
+      "body": "Generalmente, quienes reciben un CV hacen una primera revisión rápida para identificar si el perfil se ajusta a lo que están buscando.\nPrestan atención principalmente a:\n- Formación y nivel educativo.\n- Experiencia laboral, si la hay.\n- Conocimientos específicos e idiomas.\n- Claridad y organización de la información.\nUn consejo: adaptá tu CV a cada oportunidad laboral. Leé los requisitos del puesto e intentá destacar aquellos conocimientos y habilidades que se relacionen con lo solicitado. No es necesario incluir información que no aporte valor a esa postulación.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r3",
+      "category": "CV / Preparar mi perfil profesional",
+      "title": "¿Cómo destacar sin exagerar?",
+      "body": "La clave está en mostrar tus fortalezas de manera auténtica, sin inventar experiencias ni exagerar conocimientos.\n- Destacá actividades extracurriculares, proyectos educativos, voluntariados o deportes.\n- Evitá frases demasiado generales o exageradas.\n- Evitá inventar experiencia, niveles de idioma o certificados. Un ejemplo verificable suele ser más convincente que una lista de adjetivos.\nImportante: si todavía no tenés experiencia laboral, podés destacar aprendizajes, responsabilidades y actividades que hayas desarrollado en otros ámbitos. ¡Todo eso también cuenta!\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794230567790",
+      "category": "Buscar oportunidades laborales",
+      "title": "¿Cómo postularme a una oferta laboral?",
+      "body": "Antes de enviar el CV leé con atención la descripción del puesto, revisá los requisitos y la disponibilidad horaria, confirmá que tus datos de contacto estén actualizados y cuando sea necesario adaptar tu cv. Seguí los pasos que te indican para postularte, ya sea por mail o por un portal de empleos.",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794230570862",
+      "category": "Buscar oportunidades laborales",
+      "title": "¿Cómo escribir un mensaje para postularme vía mail?",
+      "body": "El mensaje debe ser breve, cordial y claro.\nEjemplo:\nAsunto: Postulación a [nombre del puesto]\nBuen día:\nMi nombre es [nombre y apellido] y me contacto para postularme al puesto de [nombre del puesto].\nAdjunto mi currículum para que puedan considerar mi perfil. Quedo a disposición por cualquier información adicional.\nMuchas gracias por su tiempo.\nSaludos,\n[Nombre y apellido]\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794230571643",
+      "category": "Buscar oportunidades laborales",
+      "title": "¿Dónde y cómo buscar trabajo?",
+      "body": "La búsqueda de trabajo no se limita a enviar el CV a una empresa. Existen diferentes canales que permiten conocer oportunidades laborales y entrar en contacto con organizaciones y reclutadores.\nAlgunas opciones para buscar trabajo:\n- Bolsas y portales de empleo: creá un perfil en plataformas como LinkedIn, Buscojobs, Computrabajo y Gallito Trabajo.\n- Mantené tus perfiles actualizados: completá tus datos personales, formación y experiencia. \n- Revisá que la información esté correcta.\n- Activá alertas de empleo: seleccioná áreas o puestos de tu interés para recibir notificaciones sobre nuevas oportunidades.\n- Revisá las ofertas con frecuencia: ingresá periódicamente a las plataformas y postulá a aquellas propuestas que se ajusten a tu perfil.\n\nAlgunos consejos adicionales:\n- Utilizá palabras clave para encontrar oportunidades: “primer empleo”, “sin experiencia”, “estudiante”, “asistente” o el área que te interese.\n- Leé los requisitos antes de postularte.\n- Adaptá tu CV a cada oportunidad laboral.\n- Llevá un registro de los lugares a los que te postulaste.\n- Revisá periódicamente tu correo electrónico y teléfono de contacto.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794230709838",
+      "category": "Buscar oportunidades laborales",
+      "title": "LinkedIn: construir una presencia profesional",
+      "body": "LinkedIn es una red social orientada al mundo laboral. Permite mostrar tu perfil profesional, conocer empresas, generar contactos y acceder a oportunidades de empleo.\nPara tener un perfil prolijo y actualizado:\n- Utilizá una foto adecuada y un nombre identificable.\n- Completá tu formación académica y los cursos realizados.\n- Describí tus experiencias laborales, proyectos educativos o actividades relevantes.\n- Incluí tus habilidades, conocimientos e idiomas.\n- Elegí un titular claro que refleje tu formación o área de interés.\n- Revisá la ortografía y mantené la información actualizada.\nUn consejo: no esperes a estar buscando trabajo para crear tu perfil. Empezá a construir tu presencia profesional y tus contactos con anticipación.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794230716246",
+      "category": "Buscar oportunidades laborales",
+      "title": "Seguir empresas, consultoras y reclutadores",
+      "body": "Muchas oportunidades laborales se difunden directamente a través de las redes sociales y las páginas de las organizaciones.\nAlgunas recomendaciones:\n- Seguí en LinkedIn a empresas e instituciones en las que te gustaría trabajar.\n- Seguí consultoras de recursos humanos y agencias de selección.\n- Identificá reclutadores/personal de rrhh  que compartan búsquedas laborales.\n- Revisá periódicamente sus publicaciones y llamados.\n- Interactuá de forma respetuosa y profesional.\nEsto te permitirá conocer nuevas oportunidades y estar al tanto de las búsquedas que se realizan en diferentes sectores.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794230716897",
+      "category": "Buscar oportunidades laborales",
+      "title": "Aprovechar los contactos",
+      "body": "Los contactos personales también pueden ser una herramienta importante durante la búsqueda laboral. Muchas veces, las oportunidades llegan a través de personas que conocemos o de recomendaciones.\nAlgunas formas de aprovecharlos:\n- Contales a personas de confianza que estás buscando trabajo.\n- Consultá si conocen oportunidades o empresas que estén incorporando personal.\n- Participá en actividades, ferias laborales y espacios vinculados con tus intereses.\n- Mantené una actitud abierta a conocer personas y aprender de sus experiencias.\nImportante: generar contactos no significa pedir trabajo directamente, sino construir vínculos y mantenerte conectado con personas que puedan compartir información u oportunidades.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r6",
+      "category": "Participar en un proceso de selección",
+      "title": "¿Qué preguntas suelen hacer?",
+      "body": "Algunas preguntas frecuentes en una entrevista laboral son:\n- Contame un poco sobre vos.\n- ¿Cuáles son tus principales fortalezas?\n- ¿Qué aspectos te gustaría mejorar?\n- ¿Por qué te interesa esta oportunidad?\n- ¿Qué conocés sobre nuestra empresa o institución?\n- ¿Cómo te llevás trabajando en equipo?\n- ¿Cómo resolverías una situación difícil?\n- ¿Cuáles son tus expectativas y disponibilidad horaria?\nTambién pueden pedirte ejemplos de situaciones vividas o plantearte casos hipotéticos. No todas las entrevistas siguen el mismo guión.\nEs recomendable pensar previamente cómo responder algunas de estas preguntas, pero sin memorizar respuestas. Lo importante es contestar con sinceridad, claridad y ejemplos cuando sea posible. \nAl finalizar agradece el tiempo y la oportunidad. Consultar, si corresponde, cuáles son los próximos pasos del proceso.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794230717469",
+      "category": "Participar en un proceso de selección",
+      "title": "¿Debo prepararme?",
+      "body": "¡Sí! Prepararte previamente te ayuda a sentirte más seguro y aprovechar mejor la entrevista.\nAntes de asistir, te recomendamos:\n- Investigar sobre la empresa o institución.\n- Leer nuevamente la propuesta laboral y sus requisitos.\n- Pensar qué podés aportar al puesto.\n- Identificar tus fortalezas y aspectos a mejorar.\n- Preparar algunas preguntas sobre el trabajo.\n- Confirmar el día, horario y lugar de la entrevista.\n- Elegir una vestimenta adecuada para la ocasión.\nTambién es importante llegar puntual, tener el celular en silencio y mantener una actitud positiva durante toda la instancia.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r7",
+      "category": "Participar en un proceso de selección",
+      "title": "¿Cómo prepararme para una entrevista virtual?",
+      "body": "Cada vez son más frecuentes las entrevistas por videollamada.\n- Verificar previamente la conexión a internet y el funcionamiento de la cámara y el micrófono.\n- Buscar un lugar tranquilo, ordenado y con buena iluminación.\n- Conectarse unos minutos antes.\n- Evitar interrupciones y mantener una actitud profesional.\n- Mirar a la cámara al hablar y prestar atención a quien entrevista.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r4",
+      "category": "Participar en un proceso de selección",
+      "title": "¿En qué tono conviene comunicarse?",
+      "body": "Lo ideal es mantener una comunicación respetuosa, natural y clara. No necesitás hablar de manera excesivamente formal, pero sí demostrar interés y profesionalismo.\nAlgunas recomendaciones:\n- Saludá al llegar y presentate.\n- Escuchá con atención antes de responder.\n- Hablá con claridad y evitá respuestas demasiado cortas o extensas.\n- Mantené un tono amable y respetuoso.\n- Evitá interrumpir a la otra persona.\n- Si no entendés una pregunta, podés pedir que te la expliquen nuevamente.\nTambién es importante cuidar la comunicación no verbal: mantener una postura adecuada, mirar a quien te entrevista y mostrar una actitud receptiva.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r8",
+      "category": "Participar en un proceso de selección",
+      "title": "¿Qué evalúan en una entrevista?",
+      "body": "Cada instancia busca conocer diferentes aspectos del candidato y determinar si su perfil se ajusta a las necesidades del puesto. Durante un proceso de selección pueden evaluarse diferentes aspectos, no solamente los conocimientos o la experiencia laboral.\nAlgunos de ellos son:\n- Comunicación: capacidad para expresar ideas y escuchar.\n- Actitud y predisposición: interés, motivación y ganas de aprender.\n- Responsabilidad: compromiso y cumplimiento.\n- Relacionamiento interpersonal: capacidad para vincularse con otras personas.\n- Resolución de problemas: cómo reaccionás frente a situaciones inesperadas.\n- Adaptabilidad: disposición para aprender y enfrentar nuevos desafíos.\nAdemás de las entrevistas, algunas organizaciones utilizan otras herramientas, como pruebas técnicas, ejercicios prácticos, dinámicas grupales o evaluaciones psicotécnicas. \nA su vez, la entrevista es una conversación de evaluación mutua: vos también podés consultar tareas, condiciones y expectativas.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r5",
+      "category": "Participar en un proceso de selección",
+      "title": "¿Cómo comportarse después de una entrevista?",
+      "body": "El proceso de selección no termina cuando finaliza la entrevista. La forma en que te comunicás y actuás después también forma parte de tu presentación profesional.\nAlgunas recomendaciones:\n- Respetá los tiempos del proceso: si te indican que recibirás una respuesta en determinada fecha, esperá ese plazo. Los procesos de selección pueden llevar tiempo y requerir varias instancias.\n- Hacé seguimiento de forma respetuosa: si pasó el plazo que te mencionaron y todavía no recibiste novedades, podés enviar un mensaje breve y amable para consultar sobre el estado del proceso.\n- Mostrá disponibilidad: mantené una actitud abierta para participar en nuevas instancias, como una segunda entrevista, una entrevista con otros integrantes del equipo o una evaluación psicotécnica.\n- Tené preparadas tus referencias: identificá personas que puedan brindar referencias laborales o personales sobre vos. Avisales previamente que podrían contactarlas y asegurate de contar con su autorización.\n- Mantené una comunicación profesional: revisá tus mensajes y correos, respondé en tiempos razonables y utilizá un tono cordial durante todo el proceso.\n- Agradecé la oportunidad: si te comunican que no continuás en el proceso, respondé amablemente, agradecé el tiempo y la oportunidad de haber participado.\nUn consejo: aunque no quedes seleccionado para un puesto, mantener un buen vínculo con la organización puede abrirte puertas para futuras oportunidades.\nImportante: la paciencia, el respeto y la buena comunicación también forman parte de tu perfil profesional.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794231085453",
+      "category": "Consejos finales",
+      "title": "Antes de aceptar un trabajo",
+      "body": "Buscar trabajo también implica evaluar si la propuesta es adecuada para vos. Antes de aceptar, es importante conocer las condiciones y asegurarte de que se ajusten a tus necesidades y expectativas.\nAlgunos aspectos a considerar:\n- ¿Cuáles son las tareas y responsabilidades del puesto?\n- ¿Cuál es el horario y la modalidad de trabajo?\n- ¿Dónde queda el lugar de trabajo?\n- ¿Cuál es la remuneración y cómo se realiza el pago?\n- ¿Qué tipo de contratación se ofrece?\n- ¿Cómo se compatibiliza con tus estudios y otras responsabilidades?\n- ¿Qué oportunidades de aprendizaje y crecimiento puede ofrecer?\n- Si el trabajo es presencial, evaluar las distancias y tiempos de traslado para evitar problemas a futuro.\n\nTambién es importante prestar atención a algunas señales:\n- Propuestas poco claras sobre las tareas o las condiciones laborales.\n- Solicitudes de dinero para acceder a un puesto.\n- Promesas que parecen poco realistas.\n- Presión para aceptar una propuesta sin tiempo para leer o consultar las condiciones.\nAnte una duda, pedí más información antes de tomar una decisión. Es importante que conozcas tus condiciones de trabajo y te sientas seguro con la propuesta.\n\nIdea clave: Buscar trabajo requiere organización, constancia y una actitud activa. No se trata solamente de postularse, sino también de construir una presencia profesional, generar contactos y aprender a identificar buenas oportunidades.\n",
+      "linkLabel": "",
+      "url": ""
+    },
+    {
+      "id": "r1794231138794",
+      "category": "Consejos finales",
+      "title": "¿Cómo manejar las expectativas y la frustración durante la búsqueda laboral?",
+      "body": "Buscar trabajo puede llevar tiempo y no siempre se obtienen los resultados esperados. Es importante mantener una actitud positiva, ser constante y entender que cada proceso es una oportunidad para aprender y mejorar.\nAlgunas recomendaciones:\n- Tené paciencia: conseguir trabajo puede llevar tiempo. No te desanimes si no recibís respuestas inmediatamente.\n- No te desmotives ante una respuesta negativa: no quedar seleccionado no significa que no tengas las capacidades necesarias, sino que quizás otros perfiles se ajustaban mejor a lo que buscaban.\n- Aprendé de cada experiencia: las entrevistas son oportunidades para conocerte mejor, identificar tus fortalezas y reconocer aspectos que podés mejorar.\n- Pedí devoluciones cuando sea posible: si no continuás en un proceso, podés consultar si tienen algún comentario sobre tu participación que te ayude en futuras oportunidades.\n- Mantené la constancia: seguí buscando, postulándote y explorando diferentes oportunidades.\n- Reconocé tus avances: cada CV enviado, entrevista realizada o nuevo contacto es un paso más en tu desarrollo profesional.\n- Evitá compararte con los demás: cada persona tiene sus propios tiempos, experiencias y oportunidades.\nImportante: el primer empleo o una nueva oportunidad laboral no siempre llegan de inmediato. Lo importante es mantenerte activo, aprender de cada experiencia y confiar en tus capacidades. Una respuesta negativa no define tu valor ni tu potencial profesional.\n",
+      "linkLabel": "",
+      "url": ""
+    }
+  ],
+  "resourceGroups": [
+    {
+      "title": "CV / Preparar mi perfil profesional",
+      "color": "#35B5A3",
+      "resourceIds": [
+        "r1",
+        "r2",
+        "r3"
+      ]
+    },
+    {
+      "title": "Buscar oportunidades laborales",
+      "color": "#B5C62A",
+      "resourceIds": [
+        "r1794230567790",
+        "r1794230570862",
+        "r1794230571643",
+        "r1794230709838",
+        "r1794230716246",
+        "r1794230716897"
+      ]
+    },
+    {
+      "title": "Participar en un proceso de selección",
+      "color": "#F0941F",
+      "resourceIds": [
+        "r6",
+        "r1794230717469",
+        "r7",
+        "r4",
+        "r8",
+        "r5"
+      ]
+    },
+    {
+      "title": "Consejos finales",
+      "color": "#EA6048",
+      "resourceIds": [
+        "r1794231085453",
+        "r1794231138794"
+      ]
+    }
+  ],
+  "schema": 2
+}
